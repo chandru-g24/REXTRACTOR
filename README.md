@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-        <img src="source\logo_E.png" width="250px" height="250px" alt="Software_E-logo">
+        <img src="source\background.png" width="250px" height="250px" alt="Software_E-logo">
       <br>
     <h1>REXTRACTOR</h1>
     <h2><b>A simple automatic GUI-based data extraction tool for Q-Rex Software</b></h2>
