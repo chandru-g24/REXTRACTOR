@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-        <a href="https://github.com/FEUSION/rotor-extractor"><img src="source\logo_E.png" width="250px" height="250px" alt="Software_E-logo"></a>
+        <a><img src="source\logo_E.png" width="250px" height="250px" alt="Software_E-logo"></a>
       <br>
     <h1>REXTRACTOR</h1>
     <h2><b>A simple automatic GUI-based data extraction tool for Q-Rex Software</b></h2>
