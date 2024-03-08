@@ -44,12 +44,12 @@ In a [Microbiological laboratory](https://microlabindia.com/), Polymerase Chain 
 
 <div align="center">
   <b>Manual Conversion</b> <br/>
-  <p>The manual conversion process for each .rex file to .xls format took **more than one minute**, resulting in significant time consumption and an overly lengthy process.</p>
+  <p>The manual conversion process for each .rex file to .xls format took <strong>more than one minute</strong>, resulting in significant time consumption and an overly lengthy process.</p>
   <img src ="source\Manual Conversion.png", alt="Manual Conversion Image">
   <br>
   <b>Conversion Through Rextractor</b>
-  <p>Rextractor efficiently extracts raw data from .rex files to .xlsx format in less than a second. It processes hundreds of .rex files in **less than one minute**.</p>
-  <img src ="source\Rextractor Conversion.png, alt="Rextractor Conversion Image">
+  <p>Rextractor efficiently extracts raw data from .rex files to .xlsx format in less than a second. It processes hundreds of .rex files in <strong>less than one minute</strong>.</p>
+  <img src ="source\Rextractor Conversion.png", alt="Rextractor Conversion Image">
 </div>
 
   
