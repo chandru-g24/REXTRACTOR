@@ -53,3 +53,11 @@ In a [Microbiological laboratory](https://microlabindia.com/), Polymerase Chain 
 
 # Download Software
 You can download the Software [here](https://github.com/PyPCR/REXTRACTOR/releases/download/v1.0.0-Rextractor/Rextractor.zip)
+
+# Standard Operating Procedure
+You can easily use this software by gothrough this Standard Operating Procedure. download [SOP](https://github.com/PyPCR/REXTRACTOR/releases/download/v1.0.0-Rextractor/SOP.pdf)
+
+# Demonstration Video
+Users can see the detailed demonstration video [here](https://youtu.be/FEPcBqvgRqg)
+
+
