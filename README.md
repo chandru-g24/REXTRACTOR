@@ -23,7 +23,10 @@
     </li>
     <li>
       <a href ="demo"> Demonstration Video </a>
-    </li
+    </li>
+    <li>
+      <a href ="contact-us"> Contanct Us </a>
+    </li>
     <li>
       <a href ="developers"> Developers </a>
     </li>
@@ -60,4 +63,7 @@ You can easily use this software by gothrough this Standard Operating Procedure.
 # Demonstration Video
 Users can see the detailed demonstration video [here](https://youtu.be/FEPcBqvgRqg)
 
+# Contact Us
+If you want to get in touch with developers, contack through this [mlrs.project2024@gmail.com](mailto:mlrs.project2024@gmail.com?subject=Rextractor%20 Software)
 
+# Developers
