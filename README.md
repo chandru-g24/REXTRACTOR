@@ -52,4 +52,4 @@ In a [Microbiological laboratory](https://microlabindia.com/), Polymerase Chain 
 <img src ="source\Rextractor Conversion.png", alt="Rextractor Conversion Image">
 
 # Download Software
-
+You can download the Software [here](https://github.com/PyPCR/REXTRACTOR/releases/download/v1.0.0-Rextractor/Rextractor.zip)
