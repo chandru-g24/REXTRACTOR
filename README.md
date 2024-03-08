@@ -61,9 +61,17 @@ You can download the Software [here](https://github.com/PyPCR/REXTRACTOR/release
 You can easily use this software by gothrough this Standard Operating Procedure. download [SOP](https://github.com/PyPCR/REXTRACTOR/releases/download/v1.0.0-Rextractor/SOP.pdf)
 
 # Demonstration Video
-Users can see the detailed demonstration video [here](https://youtu.be/FEPcBqvgRqg)
+Users can see the detailed demonstration video [here](https://youtu.be/ipHgC5T4MLY)
 
 # Contact Us
 If you want to get in touch with developers, contack through this [mlrs.project2024@gmail.com](mailto:mlrs.project2024@gmail.com?subject=Rextractor%20Software)
 
 # Developers
+<table style='width:40%'>
+  <tbody>
+    <tr>
+      <td align='center' valign='top'><a href="https://github.com/chandru-g24"> <img src="https://avatars.githubusercontent.com/u/111188572?s=400&u=befb7d97d2b8419a715a22b09d92f825bdc33906&v=4" width = '60px;' alt='Chandru G'/> <br /> <sub><b><a href="https://www.linkedin.com/in/chandru-g24/"> Chandru Ganeshan</a></b></sub></a><br /></td>
+    </tr>
+  </tbody>
+  
+</table>
