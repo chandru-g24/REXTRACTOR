@@ -29,6 +29,9 @@
     </li>
     <li>
       <a href ="demo"> Demonstration Video </a>
+    </li
+    <li>
+      <a href ="developers"> Developers </a>
     </li>
   </ol>
 </details>
@@ -42,14 +45,16 @@ We are currently working as intern in [Microbiological Laboratory Research and S
 # Need for Rextractor
 In a [Microbiological laboratory](https://microlabindia.com/), Polymerase Chain Reaction (PCR) is a vital tool used to test patient samples for various pathogens and genetic markers. The laboratory utilizes different PCR machines such as [Rotor Gene Q Rex software](https://www.qiagen.com/zh-us), [BIO-RAD'S CFX SERIES](https://www.bio-rad.com/en-in/product/cfx-connect-real-time-pcr-detection-system?ID=LN5TFG15), [THERMO FISHER](https://www.thermofisher.com/in/en/home.html) and more. Diving deeper into the Rotor Gene Q Rex software, upon inputting test samples, it generates output in the form of .rex files (Rex Experiment files). Until now, the exclusive means of analyzing these test samples has been through the Rotor Gene Q Rex software. Previous projects also relied on the Rotor Gene software due to its automated workflow environment.However, our current project aims to address these limitations by parsing .rex files.
 
-<div align="center">
+<p align="center">
   <b>Manual Conversion</b> <br/>
-  <p>The manual conversion process for each .rex file to .xls format took <strong>more than one minute</strong>, resulting in significant time consumption and an overly lengthy process.</p>
-  <img src ="source\Manual Conversion.png", alt="Manual Conversion Image">
-  <br>
-  <b>Conversion Through Rextractor</b>
-  <p>Rextractor efficiently extracts raw data from .rex files to .xlsx format in less than a second. It processes hundreds of .rex files in <strong>less than one minute</strong>.</p>
-  <img src ="source\Rextractor Conversion.png", alt="Rextractor Conversion Image">
-</div>
+  The manual conversion process for each .rex file to .xls format took <strong>more than one minute</strong>, resulting in significant time consumption and an overly lengthy process.
+</p>
+<img src ="source\Manual Conversion.png", alt="Manual Conversion Image"> 
+
+<p align="center">
+  <b>Conversion Through Rextractor</b> <br/>
+  Rextractor efficiently extracts raw data from .rex files to .xlsx format in less than a second. It processes hundreds of .rex files in <strong>less than one minute</strong>
+</p>
+<img src ="source\Rextractor Conversion.png", alt="Rextractor Conversion Image">
 
   
