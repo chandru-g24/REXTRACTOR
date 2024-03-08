@@ -16,12 +16,6 @@
     <li>
       <a href ="need-for-rextractor"> Need for Rextractor </a>
     <li>
-      <a href ="key-features"> Key Features </a>
-    </li>
-    <li>
-      <a href ="system-requirements"> System Requirements </a>
-    </li>
-    <li>
       <a href ="executable-file"> Download Software </a>
     </li>
     <li>
@@ -57,4 +51,5 @@ In a [Microbiological laboratory](https://microlabindia.com/), Polymerase Chain 
 </p>
 <img src ="source\Rextractor Conversion.png", alt="Rextractor Conversion Image">
 
-  
+# Download Software
+
